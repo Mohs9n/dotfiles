@@ -1,3 +1,4 @@
 #!/bin/sh
+sleep 2
 swww img -o eDP-1 ~/Pictures/Walls/wallhaven-m3rgx9.png
-swww img -o HDMI-A-1 ~/Pictures/Walls/wallhaven-jxrrmp.jpg
+swww img -o HDMI-A-1 ~/Pictures/Walls/wallhaven-qz5rld.png

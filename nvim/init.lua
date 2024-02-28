@@ -9,9 +9,8 @@ if not vim.loop.fs_stat(lazypath) then
 		lazypath,
 	})
 end
-
 vim.opt.rtp:prepend(lazypath)
 
-require("vim-options")
-require("remaps")
+require("config.vim-options")
+require("config.remaps")
 require("lazy").setup("plugins")

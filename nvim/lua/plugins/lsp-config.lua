@@ -82,6 +82,8 @@ return {
                 gopls = {},
                 nil_ls = {},
                 omnisharp = {},
+                rust_analyzer = {},
+                templ = {},
                 -- pyright = {},
                 -- rust_analyzer = {},
                 -- tsserver = {},
